@@ -242,7 +242,7 @@ BOT_ID = dispatcher.bot.id
 BOT_USERNAME = dispatcher.bot.username
 BOT_NAME = dispatcher.bot.first_name
 
-ubot2 = NONE
+ubot2 =None
 
 
 pbot = Client(
